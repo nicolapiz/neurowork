@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ejercicio 2</title>
+
+</head>
+
+<body>
+	<form action="Ej2.php" method="post" id="frm1" name="frm1">
+        <label id="dni">DNI:</label><input type="text" name="id" id="id"/><br />
+        <label id="nombre">Nombre:</label><input type="text" name="name" id="name"/><br />
+        <label id="apellido">Apellido:</label><input type="text" name="surname" id="surname"/><br />
+        <input type="submit" value="Enviar" />
+    </form>
+
+</body>
+</html>
